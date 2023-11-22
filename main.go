@@ -1,6 +1,6 @@
 package main
 
-import "github.com/Fulenn/Fiora/cmd"
+import "github.com/Fulenn/go-fiora/cmd"
 
 func main() {
 	cmd.Execute()

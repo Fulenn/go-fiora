@@ -1,5 +1,0 @@
-package lolbuilder
-
-func Runer() {
-
-}
